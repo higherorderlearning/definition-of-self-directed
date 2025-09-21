@@ -57,7 +57,9 @@ Yoko and Teruyuki Kobayashi
 
 自己利益関数 \( I_t \) が、主体の状態と環境に基づいて定義され、認識されていること。 
 
-### 3.3 自己利益の追求 \[ D_t \rightarrow \max I_t \] 
+### 3.3 自己利益の追求 
+
+\[ D_t \rightarrow \max I_t \] 
 
 行動決定関数 \( D_t \) が、自己利益の最大化を志向していること。 
 
