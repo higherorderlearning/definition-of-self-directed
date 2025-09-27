@@ -4,8 +4,6 @@
 
 ### 著者：
 
-Yoko and Teruyuki Kobayashi
-
 ---
 
 ## 要旨
@@ -187,4 +185,5 @@ $$
 10. 実践事例  
  — 本定義に基づく家庭教育により、学校に通わず育てられた児童が都市規模の英語スピーチ大会で二連覇を達成。教育成果の実証例として引用。  
    https://www.city.matsudo.chiba.jp/kyouiku/katsuyaku/bunka/6nenn_kekka/eigohappyoukai06.html
-   
+   https://www.city.matsudo.chiba.jp/kyouiku/katsuyaku/bunka/7nenn_kekka/eigohappyoukai07.html
+
